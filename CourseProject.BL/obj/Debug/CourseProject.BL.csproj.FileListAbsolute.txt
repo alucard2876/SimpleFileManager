@@ -1,0 +1,16 @@
+C:\Users\SashaVlad\source\repos\CourseProject\CourseProject.BL\bin\Debug\CourseProject.BL.dll
+C:\Users\SashaVlad\source\repos\CourseProject\CourseProject.BL\bin\Debug\CourseProject.BL.pdb
+C:\Users\SashaVlad\source\repos\CourseProject\CourseProject.BL\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\SashaVlad\source\repos\CourseProject\CourseProject.BL\bin\Debug\Prism.dll
+C:\Users\SashaVlad\source\repos\CourseProject\CourseProject.BL\bin\Debug\Prism.Wpf.dll
+C:\Users\SashaVlad\source\repos\CourseProject\CourseProject.BL\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\SashaVlad\source\repos\CourseProject\CourseProject.BL\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\SashaVlad\source\repos\CourseProject\CourseProject.BL\bin\Debug\Prism.pdb
+C:\Users\SashaVlad\source\repos\CourseProject\CourseProject.BL\bin\Debug\Prism.xml
+C:\Users\SashaVlad\source\repos\CourseProject\CourseProject.BL\bin\Debug\Prism.Wpf.pdb
+C:\Users\SashaVlad\source\repos\CourseProject\CourseProject.BL\bin\Debug\Prism.Wpf.xml
+C:\Users\SashaVlad\source\repos\CourseProject\CourseProject.BL\obj\Debug\CourseProject.BL.csproj.CoreCompileInputs.cache
+C:\Users\SashaVlad\source\repos\CourseProject\CourseProject.BL\obj\Debug\CourseProject.BL.csproj.CopyComplete
+C:\Users\SashaVlad\source\repos\CourseProject\CourseProject.BL\obj\Debug\CourseProject.BL.dll
+C:\Users\SashaVlad\source\repos\CourseProject\CourseProject.BL\obj\Debug\CourseProject.BL.pdb
+C:\Users\SashaVlad\source\repos\CourseProject\CourseProject.BL\obj\Debug\CourseProject.BL.csprojAssemblyReference.cache
