@@ -236,3 +236,6 @@ C:\Users\SashaVlad\source\repos\CourseProject\CourseProject\obj\Debug\CourseProj
 C:\Users\SashaVlad\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
 C:\Users\SashaVlad\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.exe
 C:\Users\SashaVlad\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\SashaVlad\source\repos\CourseProject\CourseProject\bin\Debug\itextsharp.dll
+C:\Users\SashaVlad\source\repos\CourseProject\CourseProject\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SashaVlad\source\repos\CourseProject\CourseProject\bin\Debug\itextsharp.xml

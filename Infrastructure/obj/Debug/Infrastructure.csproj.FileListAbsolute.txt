@@ -29,3 +29,8 @@ C:\Users\SashaVlad\source\repos\CourseProject\Infrastructure\obj\Debug\Infrastru
 C:\Users\SashaVlad\source\repos\CourseProject\Infrastructure\obj\Debug\Infrastructure.csproj.CopyComplete
 C:\Users\SashaVlad\source\repos\CourseProject\Infrastructure\obj\Debug\Infrastructure.dll
 C:\Users\SashaVlad\source\repos\CourseProject\Infrastructure\obj\Debug\Infrastructure.pdb
+C:\Users\SashaVlad\source\repos\CourseProject\Infrastructure\bin\Debug\CourseProject.BL.dll
+C:\Users\SashaVlad\source\repos\CourseProject\Infrastructure\bin\Debug\CourseProject.BL.pdb
+C:\Users\SashaVlad\source\repos\CourseProject\Infrastructure\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SashaVlad\source\repos\CourseProject\Infrastructure\bin\Debug\itextsharp.dll
+C:\Users\SashaVlad\source\repos\CourseProject\Infrastructure\bin\Debug\itextsharp.xml

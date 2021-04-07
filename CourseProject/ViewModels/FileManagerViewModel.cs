@@ -42,7 +42,7 @@ namespace CourseProject.ViewModels
         [Command]
         public void OpenFiles()
         {
-            NavigationService.TryNavigate(ViewNames.FileEditorDialogView, SelectedFile.FilePath);
+            NavigationService.TryNavigate(ViewNames.FileEditorDialogView, SelectedFile);
         }
 
         public bool CanReadFiles() => !String.IsNullOrEmpty(FilePath) && Path.IsPathRooted(FilePath);

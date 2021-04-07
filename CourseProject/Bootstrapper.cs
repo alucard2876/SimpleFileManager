@@ -15,7 +15,7 @@ namespace CourseProject
         protected override void InitializeShell(DependencyObject shell)
         {
             base.InitializeShell(shell);
-            ApplicationThemeHelper.ApplicationThemeName = Theme.MetropolisDarkName;
+            ApplicationThemeHelper.ApplicationThemeName = Theme.VS2019DarkName;
         }
         
 

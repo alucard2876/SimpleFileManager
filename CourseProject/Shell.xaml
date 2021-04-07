@@ -258,7 +258,7 @@
                                 <StackPanel Orientation="Vertical">
                                     <TextBlock Text="{Binding Text}" />
                                     <ProgressBar  Value="{Binding ProgressValuePct}" Maximum="100" Margin="0 5"
-                                                  Visibility="{calcBinding:Binding ProgressVisible, FalseToVisibility=Collapsed}" Height="10"/>
+                                                  Visibility="{calcBinding:Binding ShowPercentage, FalseToVisibility=Collapsed}" Height="10"/>
                                 </StackPanel>
                             </DataTemplate>
                         </dx:WaitIndicator.ContentTemplate>

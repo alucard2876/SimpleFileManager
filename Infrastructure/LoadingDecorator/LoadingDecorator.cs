@@ -31,6 +31,8 @@ namespace Infrastructure.LoadingDecorator
         Guid Id { get; }
 
         string Text { get; set; }
+
+        bool ShowPercentage { get; set; }
         
     }
 }
